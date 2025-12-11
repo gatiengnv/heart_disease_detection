@@ -1,4 +1,6 @@
-# Heart Failure Prediction
+# Heart Failure Prediction 💔
+
+![img.png](img.png)
 
 ## Overview
 This project implements a binary classification neural network using Keras/TensorFlow with automated hyperparameter tuning to find optimal model configurations.
