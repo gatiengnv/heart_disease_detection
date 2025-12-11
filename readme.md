@@ -1,4 +1,4 @@
-# Neural Network Hyperparameter Tuning Project
+# Heart Failure Prediction
 
 ## Overview
 This project implements a binary classification neural network using Keras/TensorFlow with automated hyperparameter tuning to find optimal model configurations.
